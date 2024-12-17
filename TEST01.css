@@ -45,7 +45,7 @@ li {
 /*コンテンツの画像１の設定*/
   .main-image1 {
     float: left;
-    width: 1360px;
+    width: 100%;
   }
 
 
